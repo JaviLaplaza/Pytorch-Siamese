@@ -1,0 +1,5 @@
+{
+	"root_dataset": "data",
+	"root_pretrained": "siamfc_pytorch_test/pretrained",
+	"root_parameters": "siamfc_pytorch_test/parameters"
+}
